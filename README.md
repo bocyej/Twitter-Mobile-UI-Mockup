@@ -1,16 +1,10 @@
-# twitter
+# Twitter Mobile UI Mockup
 
-A new Flutter project.
+Twitter mobile UI (light theme) using flutter. Created for learning purposes only.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Photos:
 
-A few resources to get you started if this is your first Flutter project:
+![Twitter Mobile UI (1)](https://user-images.githubusercontent.com/94532348/185195366-a860652e-cc54-4bf8-b2ef-d07f985da8b2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Twitter Mobile UI (2)](https://user-images.githubusercontent.com/94532348/185195393-7d606415-37fb-4d62-b157-16bf13794d5b.png)
