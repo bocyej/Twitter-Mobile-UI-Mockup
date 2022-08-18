@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
         foregroundColor: Colors.black,
         actions: <Widget>[
           IconButton(
-            icon: const Icon(Icons.star_border_outlined),
+            icon: const Icon(Icons.auto_awesome_outlined),
             // or Icon(Icons.grade_outlined),
             tooltip: 'Switch Timeline',
             onPressed: () {},
